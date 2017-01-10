@@ -22,4 +22,4 @@ It is simple desktop chat application written in java which is light weight and 
 * enter the ip port nickname and hit connect. enjoy! :blush:
 
 #License
-Made with :yellow_heart: by [Vaibhav Shelke](https://github.com/vaibhav3301) under [MIT License](https://github.com/vaibhav3301/10k-talk/blob/master/LICENSE). :grin:
+Made with :yellow_heart: by [Vaibhav Shelke](https://github.com/vaibhav3301) under [MIT License](https://github.com/vaibhav3301/10k-talk/blob/master/LICENSE).
