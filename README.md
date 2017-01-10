@@ -10,7 +10,7 @@ It is simple desktop chat application written in java which is light weight and 
 * Server has a live log window.
 * Can connect upto 10-15 users at a time.
 
-#Installation
+#Usage
 :file_folder: Download the .zip [here](https://github.com/vaibhav3301/10k-talk/blob/master/dist/deploy.zip)
 
 * run `Server.jar`
@@ -20,3 +20,6 @@ It is simple desktop chat application written in java which is light weight and 
   * `ifconfig` on **Linux** or **Mac**
 * run `Client.jar` on any system on the same network.
 * enter the ip port nickname and hit connect. enjoy! :blush:
+
+#License
+Made with :yellow_heart: by [Vaibhav Shelke](https://github.com/vaibhav3301) under [MIT License](https://github.com/vaibhav3301/10k-talk/blob/master/LICENSE). :grin:
