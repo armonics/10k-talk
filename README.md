@@ -1,4 +1,4 @@
-# :computer: 10k-talk
+# :computer: talk
 It is simple desktop chat application written in java which is light weight and portable. You can use it on your LAN and even WAN (port forwarding necessary :P )
 
 #Demo
@@ -11,7 +11,7 @@ It is simple desktop chat application written in java which is light weight and 
 * Can connect upto 10-15 users at a time.
 
 #Usage
-:file_folder: Download the .zip [here](https://github.com/vshelke/10k-talk/blob/master/dist/deploy.zip)
+:file_folder: Download the .zip [here](https://github.com/vshelke/talk/blob/master/dist/deploy.zip)
 
 * run `Server.jar`
 * enter a unique port number and start the server :neckbeard:
@@ -22,4 +22,4 @@ It is simple desktop chat application written in java which is light weight and 
 * enter the ip port nickname and hit connect. enjoy! :blush:
 
 #License
-Made with :yellow_heart: by [Vaibhav Shelke](https://github.com/vshelke) under [MIT License](https://github.com/vshelke/10k-talk/blob/master/LICENSE).
+Made with :yellow_heart: by [Vaibhav Shelke](https://github.com/vshelke) under [MIT License](https://github.com/vshelke/talk/blob/master/LICENSE).
